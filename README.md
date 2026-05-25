@@ -1,2 +1,6 @@
-# SGC-software-gmae-club-beta
-мой сайт для просмотров игроков и т.д. 
+# software game club
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/bpktetzb-the-flexboxer/pen/EaNvQRQ](https://codepen.io/bpktetzb-the-flexboxer/pen/EaNvQRQ).
+
